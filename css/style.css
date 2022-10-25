@@ -1,0 +1,22 @@
+header{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)),
+    url(../images/home.jpg);
+    
+    background-position: center;
+    background-size: cover;
+}
+.navbar{
+    opacity: 0.80;
+    border-bottom: 2px #0174ad solid;
+}
+i{
+    
+    color: #008ed6;
+    
+}
+.card{
+    opacity: .95;
+}
+.explore{
+    background-color: #333333;
+}
